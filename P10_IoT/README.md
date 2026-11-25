@@ -27,4 +27,4 @@ Proyek mini Internet of Things (IoT) menggunakan protokol **MQTT (Mosquitto)** u
 - `tugas10_2410010585.py` — Skrip Python client MQTT yang mem-publish data suhu simulasi DHT22 setiap 3 detik serta men-subscribe perintah kendali Relay (GPIO 26) dan kecerahan LED PWM (GPIO 23).
 - `flow_p10_2410010585.json` — File hasil ekspor flow Node-RED berisi node `mqtt in`, `mqtt out`, `function`, `ui_gauge`, `ui_switch`, dan `ui_slider`.
 - `screenshot_dashboard.png` — Tangkapan layar tampilan Node-RED Dashboard yang sedang berjalan.
-- `demo_kontrol_p10.mov` — Rekaman video singkat (maks. 60 detik) demonstrasi kontrol Relay dan PWM dari dashboard ke perangkat.
+- `demo_kontrol_p10.mp4` — Rekaman video singkat (maks. 60 detik) demonstrasi kontrol Relay dan PWM dari dashboard ke perangkat.
